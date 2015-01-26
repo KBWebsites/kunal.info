@@ -1,0 +1,27 @@
+name: Kunal Bagaria
+url: http://kunal.info/
+domain: kunal.info
+
+permalink: pretty
+highlighter: rogue
+markdown: kramdown
+
+port: 80
+
+nav:
+- text: Home
+  url: /
+- text: About Me
+  url: /about-me/
+- text: Photos
+  url: /photos/
+- text: Class Photos
+  url: /class-photos/
+- text: Achievements
+  url: /achievements/
+- text: Progress Reports
+  url: /progress-reports/
+- text: Rubik's Cube
+  url: /rubiks-cube/
+- text: Contact Me
+  url: /contact-me/
