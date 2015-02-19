@@ -1,4 +1,6 @@
 *.command
+Gemfile
+Gemfile.lock
 
 # ===Jekyll===
 .sass-cache
