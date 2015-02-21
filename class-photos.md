@@ -1,13 +1,11 @@
 ---
 title: Class Photos
 layout: default
+classes: [1, 3, 4]
 ---
-## Class 1
-<a rel="gallery" href="/files/class-photos/class-1.jpg" class="fancybox">
-    <img src="/files/class-photos/class-1.jpg" alt="">
+{% for i in page.classes %}
+## Class {{ i }}
+<a rel="gallery" href="/files/class-photos/class-{{ i }}.jpg" class="fancybox">
+    <img src="/files/class-photos/class-{{ i }}.jpg" alt="Class {{ i }}">
 </a>
-
-## Class 3
-<a rel="gallery" href="/files/class-photos/class-3.jpg" class="fancybox">
-    <img src="/files/class-photos/class-3.jpg" alt="">
-</a>
+{% endfor %}
