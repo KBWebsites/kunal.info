@@ -1,7 +1,7 @@
 ---
 title: Progress Reports
 layout: default
-classes: [1, 2, 4]
+classes: [1, 2, 3, 4]
 ---
 {% for i in page.classes %}
 ## Class {{ i }}
