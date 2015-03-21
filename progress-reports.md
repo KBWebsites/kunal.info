@@ -1,13 +1,11 @@
 ---
 title: Progress Reports
 layout: default
+classes: [1, 2, 4]
 ---
-## Class 1
-<a rel="gallery" href="/files/progress-reports/class-1.jpg" class="fancybox">
-    <img src="/files/progress-reports/class-1.jpg" alt="">
+{% for i in page.classes %}
+## Class {{ i }}
+<a rel="gallery" href="/files/progress-reports/class-{{ i }}.jpg" class="fancybox">
+    <img src="/files/progress-reports/class-{{ i }}.jpg" alt="Class {{ i }}">
 </a>
-
-## Class 2
-<a rel="gallery" href="/files/progress-reports/class-2.jpg" class="fancybox">
-    <img src="/files/progress-reports/class-2.jpg" alt="">
-</a>
+{% endfor %}
