@@ -15,7 +15,7 @@ My father's name is **Mahendra Bagaria**.
 
 My brother's name is **Kishan Bagaria**.
 
-I read in Class 4 of **Shree Agrasen Academy**.
+I read in Class 5 of **Shree Agrasen Academy**.
 
 My school is situated in **Jhalukpara Road**.
 
