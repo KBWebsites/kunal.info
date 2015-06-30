@@ -3,10 +3,8 @@ title: Contact Me
 layout: default
 ---
 ### Post:
-Thana Chariali  
-Near Overbridge  
-Dibrugarh  
-Assam  
+Thana Chariali, Near Overbridge  
+Dibrugarh (Assam)    
 India
 
 ### Fax:
