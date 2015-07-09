@@ -2,6 +2,9 @@
 title: Home
 layout: default
 ---
+<audio autoplay loop>
+      <source src="file:///C:/Users/Kunal/Desktop/Site/Santoor%20Music%20(Full).mp3">
+</audio>
 
 <p style="text-align:center">
 <a href="/files/main-photo.jpg" class="fancybox">
